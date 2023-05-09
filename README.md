@@ -1,4 +1,4 @@
-# Just an Arduino Playground
+# Just an ESP Playground
 
 
 ## Boards:
